@@ -46,8 +46,7 @@ const Services = () => {
                   What We Offer
                 </h2>
                 <p class="text-body-color text-base">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Quaerat reprehenderit autem ea ab repellat eum, quasi modi,
+                We offer a meticulously selected and verified list of high-grade hotels. Our partners consistently deliver top-notch service, ensuring an exceptional experience for our guests.
                 </p>
               </div>
             </div>

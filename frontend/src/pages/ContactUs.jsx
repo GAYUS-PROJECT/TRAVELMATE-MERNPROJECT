@@ -48,39 +48,28 @@ const ContactUs = () => {
           </div>
 
           <div class="mb-6 md:mb-0">
-            <p class="font-bold mb-4">Anim pariatur cliche reprehenderit?</p>
+            <p class="font-bold mb-4">How to get around in India?</p>
             <p class="text-gray-500 mb-12">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt
-              autem numquam dolore molestias aperiam culpa alias veritatis
-              architecto eos, molestiae vitae ex eligendi libero eveniet
-              dolorem, doloremque rem aliquid perferendis.
+            Traveling to India is a seamless experience, thanks to its well-developed transportation network. India boasts an extensive road connectivity, making it convenient for travelers to explore different regions. The rail network, with an extensive network of trains, offers a scenic and comfortable journey to various destinations
             </p>
 
-            <p class="font-bold mb-4">Non cupidatat skateboard dolor brunch?</p>
+            <p class="font-bold mb-4">What is the best time to travel to India?</p>
             <p class="text-gray-500 mb-12">
-              Distinctio corporis, iure facere ducimus quos consectetur ipsa ut
-              magnam autem doloremque ex! Id, sequi. Voluptatum magnam sed fugit
-              iusto minus et suscipit? Minima sunt at nulla tenetur, numquam
-              unde quod modi magnam ab deserunt ipsam sint aliquid dolores
-              libero repellendus cupiditate mollitia quidem dolorem odit
+            The best time to travel to India depends on the places a tourist would like to visit in the country. However, it is also safe to say that the winter season (October - March) is mostly preferred by the tourists while visiting India. For wildlife sightings, both summer (March-mid June) and winter seasons are favourable. While the winter season is best for sighting animals basking in the sun during the day time, summer is the time when they can be seen frequently paying a visit to the water holes.
             </p>
 
             <p class="font-bold mb-4">
-              Praesentium voluptatibus temporibus consequatur non aspernatur?
+            Is India a safe place to travel with kids?
             </p>
             <p class="text-gray-500 mb-12">
-              Minima sunt at nulla tenetur, numquam unde quod modi magnam ab
-              deserunt ipsam sint aliquid dolores libero repellendus cupiditate
-              mollitia quidem dolorem.
+            Yes, it is safe to travel to India with kids. While you can travel with kids almost anywhere in the country, there are some places that make for better family travel destinations, with their good hotels, plenty of activities for kids, clean air and safer environs.
             </p>
 
             <p class="font-bold mb-4">
-              Voluptatum magnam sed fugit iusto minus et suscipit?
+            What currency should I carry while traveling in India?
             </p>
             <p class="text-gray-500 mb-12">
-              Laudantium perferendis, est alias iure ut veniam suscipit dolorem
-              fugit. Et ipsam corporis earum ea ut quae cum non iusto blanditiis
-              ipsum dolor eius reiciendis, velit adipisci quas.
+            India's currency is Indian Rupees; it is advisable to exchange your currency at the airport or any foreign currency exchange before travelling to India.
             </p>
           </div>
         </div>

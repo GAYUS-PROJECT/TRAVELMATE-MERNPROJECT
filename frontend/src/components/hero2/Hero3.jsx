@@ -15,14 +15,13 @@ const Hero3 = () => {
                   TAKE ONLY MEMORIES, LEAVE ONLY FOOTPRINTS
                 </h2>
                 <p className="text-body-color mb-8 text-base">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse
-                  nulla enim aperiam culpa cupiditate quas animi ducimus
-                  blanditiis! Dolorum, perspiciatis.
+                With Tour My India, your vacation is not just about sightseeing; it's about creating memories that last a lifetime.
+                </p>
+                <p className="text-body-color mb-8 text-base">
+                Our holiday packages are hassle-free and designed with a focus on value for money.
                 </p>
                 <p className="text-body-color mb-12 text-base">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse
-                  nulla enim aperiam culpa cupiditate quas animi ducimus
-                  blanditiis! Dolorum, perspiciatis.
+                Trust us to weave unforgettable experiences into your journey, ensuring every moment you spend with us is well worth it
                 </p>
               </div>
             </div>

@@ -34,13 +34,7 @@ const Layout = () => {
 
   return (
     <div>
-      {showAdminNavbar ? (
-        <AdminNavbar />
-      ) : showFinaceNavbar ? (
-        <AdminNavbar />
-      ) : (
-        <Navbar />
-      )}
+      {showAdminNavbar ? (<AdminNavbar />) : showFinaceNavbar ? (<AdminNavbar />) : (<Navbar />)}
       <RouteTour />
       <Footer />
     </div>
